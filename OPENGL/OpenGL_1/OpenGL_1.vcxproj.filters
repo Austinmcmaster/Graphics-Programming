@@ -47,4 +47,12 @@
       <Filter>Resource Files\Shaders</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Shaders\lightShader.fs.txt">
+      <Filter>Resource Files\Shaders</Filter>
+    </Text>
+    <Text Include="Shaders\lightShader.vs.txt">
+      <Filter>Resource Files\Shaders</Filter>
+    </Text>
+  </ItemGroup>
 </Project>

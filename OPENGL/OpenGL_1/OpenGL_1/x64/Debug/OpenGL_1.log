@@ -1,6 +1,5 @@
 ﻿  main.cpp
 C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(25,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(26,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(198,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(232,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(136,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   OpenGL_1.vcxproj -> C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\x64\Debug\OpenGL_1.exe

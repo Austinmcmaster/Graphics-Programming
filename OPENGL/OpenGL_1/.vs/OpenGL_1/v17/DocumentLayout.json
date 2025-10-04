@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\ShaderCompiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:ShaderCompiler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\lightShader.fs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:Shaders\\lightShader.fs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -30,32 +30,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "camera.h",
-              "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\camera.h",
-              "RelativeDocumentMoniker": "camera.h",
-              "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\camera.h",
-              "RelativeToolTip": "camera.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-03T02:16:42.582Z",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwDwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-04T04:40:58.224Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "lightShader.fs.txt",
+              "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\lightShader.fs.txt",
+              "RelativeDocumentMoniker": "Shaders\\lightShader.fs.txt",
+              "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\lightShader.fs.txt",
+              "RelativeToolTip": "Shaders\\lightShader.fs.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-04T05:33:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ShaderCompiler.h",
               "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\ShaderCompiler.h",
               "RelativeDocumentMoniker": "ShaderCompiler.h",
               "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\ShaderCompiler.h",
               "RelativeToolTip": "ShaderCompiler.h",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-29T01:15:48.65Z",
+              "WhenOpened": "2025-10-04T05:17:10.788Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +80,9 @@
               "RelativeDocumentMoniker": "Shaders\\shader.vs",
               "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.vs",
               "RelativeToolTip": "Shaders\\shader.vs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-29T00:50:57.16Z",
+              "WhenOpened": "2025-10-04T04:53:08.628Z",
               "EditorCaption": ""
             },
             {
@@ -79,22 +93,9 @@
               "RelativeDocumentMoniker": "Shaders\\shader.fs",
               "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.fs",
               "RelativeToolTip": "Shaders\\shader.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-26T03:55:36.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAAACgBAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-26T03:38:18.667Z",
+              "WhenOpened": "2025-10-04T04:53:01.46Z",
               "EditorCaption": ""
             }
           ]
