@@ -38,6 +38,9 @@
     <ClInclude Include="camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Shaders\lightShader.fs">
+      <Filter>Resource Files\Shaders</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="Shaders\shader.fs">
@@ -46,13 +49,8 @@
     <None Include="Shaders\shader.vs">
       <Filter>Resource Files\Shaders</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Shaders\lightShader.fs.txt">
+    <None Include="Shaders\lightShader.vs">
       <Filter>Resource Files\Shaders</Filter>
-    </Text>
-    <Text Include="Shaders\lightShader.vs.txt">
-      <Filter>Resource Files\Shaders</Filter>
-    </Text>
+    </None>
   </ItemGroup>
 </Project>
