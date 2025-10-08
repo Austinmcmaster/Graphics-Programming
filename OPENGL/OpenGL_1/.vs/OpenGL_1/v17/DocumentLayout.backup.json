@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:Shaders\\shader.fs||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E8EC122-8F27-4BAA-A1DC-EC68F85FB020}|OpenGL_1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -18,33 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAAKgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwL0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-04T04:40:58.224Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "shader.fs",
-              "DocumentMoniker": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.fs",
-              "RelativeDocumentMoniker": "Shaders\\shader.fs",
-              "ToolTip": "C:\\Users\\AustinPC\\source\\repos\\Graphics-Programming\\OPENGL\\OpenGL_1\\Shaders\\shader.fs",
-              "RelativeToolTip": "Shaders\\shader.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-07T02:34:41.953Z",
+              "WhenOpened": "2025-10-08T02:42:27.971Z",
               "EditorCaption": ""
             }
           ]

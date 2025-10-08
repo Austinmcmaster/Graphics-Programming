@@ -2,14 +2,19 @@
 C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(25,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(26,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(137,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(172,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(172,21): warning C4244:         with
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(172,21): warning C4244:         [
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(172,21): warning C4244:             T=float
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(172,21): warning C4244:         ]
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(173,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(173,42): warning C4244:         with
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(173,42): warning C4244:         [
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(173,42): warning C4244:             T=float
-C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(173,42): warning C4244:         ]
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(153,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(153,21): warning C4244:         with
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(153,21): warning C4244:         [
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(153,21): warning C4244:             T=float
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(153,21): warning C4244:         ]
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(154,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(154,21): warning C4244:         with
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(154,21): warning C4244:         [
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(154,21): warning C4244:             T=float
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(154,21): warning C4244:         ]
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(155,21): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(155,21): warning C4244:         with
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(155,21): warning C4244:         [
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(155,21): warning C4244:             T=float
+C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\main.cpp(155,21): warning C4244:         ]
   OpenGL_1.vcxproj -> C:\Users\AustinPC\source\repos\Graphics-Programming\OPENGL\OpenGL_1\x64\Debug\OpenGL_1.exe
